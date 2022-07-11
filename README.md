@@ -34,6 +34,6 @@ Sou ex estudante de Física e atual estudante de análise e desenvolvimento de s
   <a href = "yangomes0601@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yan-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/yan-gomes/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/yan-gomes/yan-gomes/blob/output/github-contribution-grid-snake.svg)
  
 </div>
