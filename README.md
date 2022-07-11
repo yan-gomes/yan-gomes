@@ -22,7 +22,7 @@ Sou ex estudante de Física e atual estudante de análise e desenvolvimento de s
   <img align="center" alt="Yan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Yan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Yan-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Yan-pic" height="150" style="border-radius:50px;" src="https://github.com/yan-gomes/yan-gomes/blob/main/WhatsApp%20Image%202022-07-11%20at%2019.41.06.jpeg">
 </div>
   
   ##
